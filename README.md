@@ -1,2 +1,7 @@
-# Whatsapp_message_automation
-Automation of messages to sales teams using whatsapp.
+Whatsapp_message_automation
+
+---
+
+Using whatsapp to automation messages to sales teams.
+
+---
